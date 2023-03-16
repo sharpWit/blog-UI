@@ -1,5 +1,5 @@
 import Layout from "../../components/layout/Layout";
 
-export default function HomePage({ children }) {
-  return <Layout>{children}</Layout>;
+export default function HomePage() {
+  return <Layout>home page</Layout>;
 }
